@@ -1,0 +1,11 @@
+﻿global using System;
+global using Microsoft.Win32;
+global using System.Drawing;
+global using System.IO;
+global using System.Reflection;
+global using System.Windows;
+global using System.Windows.Input;
+global using System.Windows.Media;
+global using System.Windows.Media.Animation;
+global using System.Windows.Media.Imaging;
+global using Window_securety.Password;
